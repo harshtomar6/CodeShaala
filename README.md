@@ -19,5 +19,6 @@ Note - Make sure you have [VS Code](https://code.visualstudio.com/download) inst
 * Open PowerShell/Terminal on your Computer and navigate to Desktop by typing `cd ~/Desktop`
 * Clone this repo by typing `git clone <url>` (url must be replaced with actual url that you have copied in earlier step).
 * Navigate to repo folder by typing `cd CodeShaala`.
+* Type `git remote add upstream https://github.com/harshtomar6/CodeShaala.git`.
 * Open it in VS code by typing `code .` (Notice the dot after code).
 * That's it, You are good to go.
